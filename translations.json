@@ -1,0 +1,1717 @@
+{
+  "data": [
+    {
+      "key": "onb_title1",
+      "english": "Send  Smiles Across Miles",
+      "arabic": "أرسل الفرح عبر المسافات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724311019
+    },
+    {
+      "key": "onb_dis1",
+      "english": "Bridge the gap with instant, secure transfers that keep you connected to your loved ones, no matter the distance.",
+      "arabic": "قرّب المسافات بينك وبين أحبابك بتحويلات فورية وآمنة وابق على اتصال دائم بهم.",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "onb_title2",
+      "english": "Quick Cash, Across Borders",
+      "arabic": "تحويلات نقدية عابرة للحدود",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "onb_dis2",
+      "english": "Turn international money transfers into a swift, hassle-free experience, ensuring your funds arrive safely and promptly.",
+      "arabic": "اكتشف تجربة تحويلات دولية سريعة وسلسة تضمن وصول أموالك بكل سهولة وأمان.",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "onb_title3",
+      "english": "Your Link Home, Instantly",
+      "arabic": "تحويلات فورية لأحبابك",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "onb_dis3",
+      "english": "Send money back home with a tap. It's fast, reliable, and the money goes directly to their doorstep or bank account.",
+      "arabic": "أرسل الأموال لأهلك بضغطة واحدة. طريقة سريعة وموثوقة لتصلهم التحويلات إلى باب البيت أو الحسابات البنكية.",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "check_rate",
+      "english": "Check Our Rates",
+      "arabic": "",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "login",
+      "english": "Login",
+      "arabic": "دخول",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "sign_up",
+      "english": "Sign Up",
+      "arabic": "إنشاء حساب جديد",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "forgt_pass_btn",
+      "english": "Forgot Password ?",
+      "arabic": "نسيت كلمة السر؟",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "civil_id",
+      "english": "Civil ID",
+      "arabic": "الملا للصيرفة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "password",
+      "english": "Password",
+      "arabic": "كلمة السر",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "confirm_password",
+      "english": "Confirm Password",
+      "arabic": "اعادة إدخال كلمة السر",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "languages",
+      "english": "Languages",
+      "arabic": "اللغات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "branches",
+      "english": "Branches",
+      "arabic": "الفروع",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "notification",
+      "english": "Notification",
+      "arabic": "الإشعارات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "notifications",
+      "english": "Notifications",
+      "arabic": "الإشعارات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "updates",
+      "english": "Promotional Updates",
+      "arabic": "آخر المستجدات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "select_lang",
+      "english": "Select Language",
+      "arabic": "اختار اللغة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "select",
+      "english": "Select",
+      "arabic": "اختر",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "branch_locator",
+      "english": "Branch Locator",
+      "arabic": "شبكة فروعنا",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "destination_country",
+      "english": "Destination Country",
+      "arabic": "الدولة المراد التحويل اليها",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "you_send",
+      "english": "You Send",
+      "arabic": "أرسل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "net_pay",
+      "english": "Net Pay",
+      "arabic": "إجمالي المرسل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "pay_amount",
+      "english": "Pay Amount",
+      "arabic": "المبلغ المرسل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "net_receive",
+      "english": "Net Receive",
+      "arabic": "إجمالي المستلم",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "rate",
+      "english": "Rate",
+      "arabic": "سعر الصرف",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "fees",
+      "english": "Fees",
+      "arabic": "رسوم",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "delivery_time",
+      "english": "Delivery Time",
+      "arabic": "زمن توصيل العملة ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "info",
+      "english": "Info",
+      "arabic": "معلومات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "transaction_services",
+      "english": "Transaction Services",
+      "arabic": "خدمات المعاملات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "order_foreign_currency",
+      "english": "Order Foreign Currency",
+      "arabic": "طلب عملات أجنبية",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "enquiries",
+      "english": "Enquiries",
+      "arabic": "استفسارات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "exchange_rate",
+      "english": "Exchange Rate",
+      "arabic": "سعر الصرف",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "my_transactions",
+      "english": "My Transactions",
+      "arabic": "معاملات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "summary_of_all_your_transactions",
+      "english": "Summary of all your transactions",
+      "arabic": "ملخص المعاملات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "value",
+      "english": "Value",
+      "arabic": "القيمة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "transactions",
+      "english": "Transactions",
+      "arabic": "عدد التحويلات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "my_information",
+      "english": "My Information",
+      "arabic": "بياناتى الشخصية",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "reset_password",
+      "english": "Reset Password",
+      "arabic": "اعادة ضبط كلمة السر",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "change_language",
+      "english": "Change Language",
+      "arabic": "تغيير اللغة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "finger_touch",
+      "english": "Fingerprint / Touch ID",
+      "arabic": "بصمة الإصبع / معرف اللمس",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "logout",
+      "english": "Logout",
+      "arabic": "تسجيل خروج",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "address",
+      "english": "Address",
+      "arabic": "العنوان",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "dob",
+      "english": "Date Of Birth",
+      "arabic": "تاريخ الميلاد",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "face_id",
+      "english": "Face ID",
+      "arabic": "بصمة الوجه",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "fingerprint",
+      "english": "Fingerprint",
+      "arabic": "بصمة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "link_biometric_message",
+      "english": "Do you want to link fingerprint/Face ID with your Al Mulla Exchange account?",
+      "arabic": "هل تريد ربط بصمة الإصبع/بصمة الوجه بحساب الملا للصرافة الخاص بك؟",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "delink_biometric_message",
+      "english": "Do you want to de-link fingerprint/Face ID with your Al Mulla Exchange account?",
+      "arabic": "هل ترغب في فصل بصمة الإصبع/معرف الوجه الخاص بك عن حساب الملا للصرافة؟",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_fingerprint_linked_successful",
+      "english": "Fingerprint Linked Successfully",
+      "arabic": "تم تفعيل بصمة الإصبع بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_fingerprint_delinked_successfully",
+      "english": "Fingerprint Delinked Successfully",
+      "arabic": "تم ايقاف بصمة الإصبع بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_face_linked_successful",
+      "english": "Face ID Linked Successfully",
+      "arabic": "تم تفعيل خاصية بصمة الوجه بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_face_delinked_successfully",
+      "english": "Face ID Delinked Successfully",
+      "arabic": "تم إلغاء خاصية بصمة الوجه بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "get_otp",
+      "english": "Get OTP",
+      "arabic": "أرسل رمز التفعيل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "error_password_validation",
+      "english": "Enter a password with 8 to 15 characters, atleast one number, one capital letter and one special character ('!','%' ,'$' ,'@')",
+      "arabic": "أدخل كلمة سر مكونة من 8 إلى 15 رمز, على ان تحتوي علي حرف كبير ورقم واحد على الأقل و رمز خاص ('!','%','$' ,'@')",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "message_password_changed",
+      "english": "Password is changed successfully.",
+      "arabic": "تم تغيير كلمة السر بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "enter_confirm_password",
+      "english": "Please enter the same password to confirm the password.",
+      "arabic": "يرجى إدخال كلمة السر صحيحة ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "registration_success_label",
+      "english": "Registration Successful !",
+      "arabic": "تم التسجيل بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "registration_success_message",
+      "english": "Thank you for registering with \nAl Mulla Exchange.",
+      "arabic": "شكراًً لك على تسجيل بياناتك في شركة الملا للصيرفة ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "you_pay",
+      "english": "You Pay",
+      "arabic": "دفع",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "you_receive",
+      "english": "Receive",
+      "arabic": "استلم",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "important",
+      "english": "Important",
+      "arabic": "هامة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "delivery_charge_message_label",
+      "english": "Delivery charge will be KD 2 for each delivery.",
+      "arabic": "رسوم التوصيل 2 د.ك ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "select_currency",
+      "english": "Select Currency",
+      "arabic": "اختر العملة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "enter_amount",
+      "english": "Enter Amount",
+      "arabic": "أدخل المبلغ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_denomination",
+      "english": "Denomination",
+      "arabic": "الفئة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "high_value_notes",
+      "english": "High Value Notes",
+      "arabic": "فئات كبيرة القيمة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "mixed_notes",
+      "english": "Mixed Notes",
+      "arabic": "فئات متنوعة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "source_of_fund",
+      "english": "Source Of Funds",
+      "arabic": "مصدر الدخل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "purpose_of_transaction",
+      "english": "Purpose Of Transaction",
+      "arabic": "الغرض من التحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_country_of_travel",
+      "english": "Country Of Travel",
+      "arabic": "الدولة وجهة السفر ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_travel_from",
+      "english": "Travel From Date",
+      "arabic": "السفر اعتبارا من",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_travel_to",
+      "english": "Travel To Date",
+      "arabic": "العودة من السفر",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "title_my_cart",
+      "english": "My Cart",
+      "arabic": "سلة العملات ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "error_empty_cart",
+      "english": "Your cart is empty",
+      "arabic": "سلة المعاملات فارغة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "add_currency",
+      "english": "Add Currency",
+      "arabic": "أضف عملة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_buy_amount",
+      "english": "Buy Amount",
+      "arabic": "مبلغ العملة الأجنبية",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_sell_amount",
+      "english": "Sell Amount",
+      "arabic": "القيمة بالدينار الكويتي",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_less",
+      "english": "Less",
+      "arabic": "عرض أقل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_more",
+      "english": "More",
+      "arabic": "عرض المزيد",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_shipping_address",
+      "english": "Shipping Address",
+      "arabic": "عنوان التوصيل ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_delivery_time",
+      "english": "Delivery Time",
+      "arabic": "زمن توصيل العملة ",
+      "tags": [],
+      "version": 1724305190
+    },
+    {
+      "key": "label_delivery_date_time",
+      "english": "Delivery Date And Time",
+      "arabic": "تاريخ ووقت التسليم",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "click_for_more_rates",
+      "english": "Click for more rates",
+      "arabic": "اضغط لمزيد من خيارات أسعار الصرف والتوصيل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "message_delivery_warning",
+      "english": "You can change delivery date and time as per your availability preference.",
+      "arabic": "يمكنك تغيير تاريخ ووقت توصيل العملة حسب الوقت المناسب لك",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_order_summary",
+      "english": "Order Summary",
+      "arabic": "ملخص الطلب",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_amount_to_be_paid",
+      "english": "Amount To Be Paid",
+      "arabic": "المبلغ المستحق للدفع ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_delivery_charges",
+      "english": "Delivery Charges",
+      "arabic": "رسوم التوصيل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_order_total",
+      "english": "Order Total",
+      "arabic": "إجمالى المبلغ ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "message_alert_delete_order",
+      "english": "Are you sure want to delete this complete order?",
+      "arabic": "هل أنت متأكد من رغبتك في حذف هذا الطلب ؟",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "error_application_delete",
+      "english": "Are you sure you want to delete this application?",
+      "arabic": "هل أنت متأكد أنك تريد حذف هذا الطلب؟",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "alert",
+      "english": "Alert",
+      "arabic": "تنبيه",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "title_choose_shipping_address",
+      "english": "Choose Shipping Address",
+      "arabic": "اختر عنوان توصيل العملة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "from",
+      "english": "From : ",
+      "arabic": " :من",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "to",
+      "english": "To: ",
+      "arabic": "إلى : ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "request_via_email",
+      "english": "Request transaction statement via email",
+      "arabic": "طلب كشف التحويلات عبر البريد الإلكتروني",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_delivery_list",
+      "english": "Delivery : ",
+      "arabic": "Delivery : ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "transaction_details",
+      "english": "Transaction Details",
+      "arabic": "تفاصيل المعاملة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "date",
+      "english": "Date",
+      "arabic": "التاريخ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "branch",
+      "english": "Branch",
+      "arabic": "الفرع",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "account_number",
+      "english": "Account Number",
+      "arabic": "رقم الحساب",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "bene_bank",
+      "english": "Bene Bank",
+      "arabic": "البنك المستفيد",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "transaction_status",
+      "english": "Transaction Status",
+      "arabic": "حالة المعاملة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "transaction_id",
+      "english": "Transaction ID",
+      "arabic": "مرجع المعاملة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "download_receipt",
+      "english": "Download Receipt",
+      "arabic": "تحميل إيصال التحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "delivery_address",
+      "english": "Delivery Address",
+      "arabic": "عنوان التوصيل ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "order_date",
+      "english": "Order Date",
+      "arabic": "تاريخ الطلب",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_status",
+      "english": "Status",
+      "arabic": "الحالة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_order_type",
+      "english": "Order Type",
+      "arabic": "طبيعة الطلب",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "amount_label",
+      "english": "Amount",
+      "arabic": "المبلغ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "delivery_date_and_time",
+      "english": "Delivery date and time",
+      "arabic": "تاريخ ووقت التسليم",
+      "tags": [],
+      "version": 1724305190
+    },
+    {
+      "key": "message_delivery_heading",
+      "english": "Delivery & Acceptance Process",
+      "arabic": "عملية التسليم والموافقة علي الطلب",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "message_delivery_one",
+      "english": "Match Inventory ID on envelope with the Order",
+      "arabic": "تطابق هوية المستلم على المغلف مع الطلب",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "message_delivery_two",
+      "english": "Confirm the Foreign Exchange amount received",
+      "arabic": "قم بالتأكيد علي إستلام مبلغ العملة الأجنبية",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "message_delivery_three",
+      "english": "Sign on the Foreign Exchange Sale document",
+      "arabic": "قم بالتوقيع على وثيقة بيع العملة الأجنبية",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "fx_order",
+      "english": "FX Order",
+      "arabic": "طلب عملات أجنبية",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "download_transaction_history",
+      "english": "Download Transaction\nHistory",
+      "arabic": "تحميل سجل المعاملات",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "message_email_success",
+      "english": "Thank you for your request. You will receive the statement on",
+      "arabic": "شكراً على تقديم طلبك. سوف تتلقى كشف التحويلات على",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "Reference_Id",
+      "english": "Reference ID",
+      "arabic": "رقم المرجع",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "order_will_be_delivered",
+      "english": "Your Order will be delivered on",
+      "arabic": "سيتم تسليم طلبك",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "between",
+      "english": "between",
+      "arabic": "بين",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "go_to_dashboard",
+      "english": "Go to dashboard",
+      "arabic": "التوجه الى الصفحة الرئيسية",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "al_mulla_exchange",
+      "english": "AL MULLA EXCHANGE",
+      "arabic": "الملا للصيرفة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "transaction_receipt_no",
+      "english": "Transaction receipt no:",
+      "arabic": "رقم إيصال المعاملة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "transaction_successful",
+      "english": "Transaction Successful!",
+      "arabic": "تم اتمام العملية بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "transaction_failed",
+      "english": "Transaction Failed!",
+      "arabic": "فشلت عملية التحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_thank_you",
+      "english": "Thank You",
+      "arabic": "شكراً لك",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "could_not_be_paid_to",
+      "english": "Could not be paid to",
+      "arabic": "لايمكن اتمام عملية الدفع",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "contact_message",
+      "english": "Kindly contact for further assistance",
+      "arabic": "للمساعدة يرجي التواصل على رقم",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "by_clicking_you_agree_to_our",
+      "english": "By clicking, you agree to our ",
+      "arabic": " بالنقر هنا، فإنك توافق على ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "terms_condition",
+      "english": "Terms & Conditions",
+      "arabic": "الشروط والأحكام",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "otp_expires_in",
+      "english": "OTP Expires in:",
+      "arabic": "تنتهي صلاحية رمز التفعيل خلال:",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "verified",
+      "english": "Verified",
+      "arabic": "تحقق",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "address_type",
+      "english": "Address Type",
+      "arabic": "العنوان",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "block_no",
+      "english": "Block No",
+      "arabic": "القطعة ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "flat_no",
+      "english": "Flat No",
+      "arabic": "رقم الشقة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "street_no",
+      "english": "Street No",
+      "arabic": "الشارع ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "house_no",
+      "english": "House No",
+      "arabic": "رقم المبنى",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "governorate",
+      "english": "Governorate",
+      "arabic": "المحافظة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "gov_area",
+      "english": "Governorate Area",
+      "arabic": "المنطقة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "otp_dialog_title",
+      "english": "Destination of OTP to\nbe sent",
+      "arabic": "حدد الوجهة المناسبة لإستلام رمز التفعيل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "whatsapp_chat_with_us",
+      "english": "Whatsapp - Chat with us",
+      "arabic": "راسلنا عبر الواتس آب",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "call_us_for_immediate_response",
+      "english": "Call us for immediate response",
+      "arabic": "اتصل بنا للإستجابة الفورية",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "add_shipping_address",
+      "english": "Add Shipping Address",
+      "arabic": "أضف عنوان جديد",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "address_saved_successfully",
+      "english": "Address Added Successfully",
+      "arabic": "تم حفظ العنوان بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "error_gov",
+      "english": "Please select a governorate",
+      "arabic": "يرجى إختيار المحافظة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "error_address_type",
+      "english": "Select an address type",
+      "arabic": "قم بتحديد طبيعة العنوان",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "error_block_flat",
+      "english": "Enter either a valid block number or a flat number",
+      "arabic": "أدخل رقم القطعة او رقم الشقة الصحيح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "error_street_house_no",
+      "english": "Enter either a valid street number or a house number",
+      "arabic": "أدخل رقم الشارع أو المنزل ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "error_area",
+      "english": "Select an area",
+      "arabic": "يرجي تحديد الدولة ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_address_delete_confirmation",
+      "english": "Do you want to delete the address?",
+      "arabic": "هل أنت متاكد من حذف العنوان ؟",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_address_delete",
+      "english": "Address deleted successfully",
+      "arabic": "تم حذف العنوان بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "quick_remit",
+      "english": "Quick Remit",
+      "arabic": "تحويل سريع",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "repeat_transaction",
+      "english": "Repeat Transaction",
+      "arabic": "قائمة تحويلاتك الأخيرة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "repeat_cart",
+      "english": "Repeat Cart",
+      "arabic": "سلة تحويلاتك المنتظمة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "additional_details",
+      "english": "Additional Details",
+      "arabic": "بيانات اضافية خاصة بالمستفيد",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "remittance",
+      "english": "Remittance",
+      "arabic": "تفاصيل الحوالة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "btn_add_address",
+      "english": "Add Address",
+      "arabic": "أضف عنوان",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "search",
+      "english": "Search...",
+      "arabic": "إبحث",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "repeat_remit",
+      "english": "Repeat Remit",
+      "arabic": "تكرار التحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_application_number",
+      "english": "Application #",
+      "arabic": "طلب تحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "beneficiary",
+      "english": "Beneficiary",
+      "arabic": "قائمة المستفيدين",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "bank",
+      "english": "Bank",
+      "arabic": "البنك",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "transaction_fee",
+      "english": "Transaction Fees",
+      "arabic": "رسوم التحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "promotion_discount",
+      "english": "Promotion Discount",
+      "arabic": "الخصم الخاص بالعرض الترويجي",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "message_charges",
+      "english": "Message Charges",
+      "arabic": "رسوم الرسالة",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "net_transaction_fees",
+      "english": "Net Transaction Fees",
+      "arabic": "صافي رسوم التحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "total_transaction_fees",
+      "english": "Total Transaction Fees",
+      "arabic": "مجموع رسوم التحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "total",
+      "english": "Total",
+      "arabic": "المجموع",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "elements_of_transaction_fee",
+      "english": "Elements of Transaction Fee",
+      "arabic": "تفاصيل رسوم التحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "summary",
+      "english": "Summary",
+      "arabic": "ملخص الطلب",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "add_remittance",
+      "english": "Add Remittance",
+      "arabic": "إضافة تحويل",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "order",
+      "english": " Order #",
+      "arabic": " أجنبية",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "total_promotion_discount",
+      "english": "Total Promotion Discount",
+      "arabic": "إجمالي الخصم الخاص بالعرض الترويجي ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_pay_at_branch",
+      "english": "Pay at Branch",
+      "arabic": "ادفع في الفرع",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_view",
+      "english": "View",
+      "arabic": "عرض ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "whats_new",
+      "english": "What’s New",
+      "arabic": "ما الجديد",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_or",
+      "english": "OR",
+      "arabic": "أو",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_transactions",
+      "english": "Transactions",
+      "arabic": "عدد التحويلات",
+      "tags": [],
+      "version": 1724305190
+    },
+    {
+      "key": "label_success",
+      "english": "Success",
+      "arabic": "تم بنجاح",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "label_error",
+      "english": "Error",
+      "arabic": "خطأ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_cancel",
+      "english": "Cancel",
+      "arabic": "إلغاء",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_done",
+      "english": "Done",
+      "arabic": "تم",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_next",
+      "english": "Next",
+      "arabic": "التالي",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_ok",
+      "english": "OK",
+      "arabic": "حسنا",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_submit",
+      "english": "Submit",
+      "arabic": "تأكيد",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_no",
+      "english": "No",
+      "arabic": "لا",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_proceed",
+      "english": "Proceed",
+      "arabic": "تنفيذ",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_yes",
+      "english": "Yes",
+      "arabic": "نعم",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_pay_by_knet",
+      "english": "Pay By Knet",
+      "arabic": "ادفع عن طريق الكي نت",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    },
+    {
+      "key": "button_pay_now",
+      "english": "Pay Now",
+      "arabic": "ادفع الآن",
+      "tags": [
+        "flutter"
+      ],
+      "version": 1724305190
+    }
+  ]
+}
