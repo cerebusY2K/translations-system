@@ -88,8 +88,11 @@ app.get('/api/translations-since/:version', (req, res) => {
     // Filter by tag if the tag parameter is provided
     updatedTranslations = updatedTranslations.filter(item => item.tags.includes(tag));
   }
+  var data = {
+    "data" : updatedTranslations
+  }
 
-  res.json(updatedTranslations);
+  res.json(data);
 });
 
 // Delete translation
